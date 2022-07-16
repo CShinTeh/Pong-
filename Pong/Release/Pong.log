@@ -1,0 +1,21 @@
+﻿  Ball.cpp
+D:\C++ Advanced\Pong\Pong\Ball.cpp(16,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Advanced\Pong\Pong\Ball.cpp(17,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Advanced\Pong\Pong\Ball.cpp(19,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++ Advanced\Pong\Pong\Ball.cpp(20,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++ Advanced\Pong\Pong\Ball.cpp(28,32): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\C++ Advanced\Pong\Pong\Ball.cpp(44,33): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\C++ Advanced\Pong\Pong\Ball.cpp(49,33): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+  Menu.cpp
+  Player.cpp
+  Screen.cpp
+  Main.cpp
+D:\C++ Advanced\Pong\Pong\Main.cpp(34,36): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+  UILabel.cpp
+  UIButton.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pong.vcxproj -> D:\C++ Advanced\Pong\Release\Pong.exe
